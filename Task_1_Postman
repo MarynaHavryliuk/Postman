@@ -1,6 +1,5 @@
 Postman.
 HW_1
-Создать запросы в Postman.
 
 Protocol: http
 IP: 162.55.220.72
@@ -36,7 +35,6 @@ response:
           'family': {'children': [['Alex', 24], ['Kate', 12]],
                      'u_salary_1_5_year': salary * 4}}
 
-
 ==================
 
 EP_3
@@ -52,7 +50,6 @@ response:
           'age': age,
           'daily_food': weight * 0.012,
           'daily_sleep': weight * 2.5}
-
 
 ==================
 
@@ -74,7 +71,6 @@ response:
                      'u_age': age,
                      'u_salary_5_years': salary * 4.2}
           }
-
 
 ==================
 
@@ -98,7 +94,6 @@ response:
                      'u_salary_1_5_year': salary * 4}
           }
 
-
 ==================
 
 EP_6
@@ -113,7 +108,6 @@ response:
 {'name': name,
           'age': int(age),
           'salary': [salary, str(salary * 2), str(salary * 3)]}
-
 
 ==================
 
